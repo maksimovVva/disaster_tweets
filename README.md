@@ -1,8 +1,8 @@
-# Exploration of applicability of ELMo embedding to Kaggle competition [Real or Not? NLP with Disaster Tweets](https://www.kaggle.com/c/nlp-getting-started)
+# Exploration of applicability of ELMo embedding
+## to Kaggle competition [Real or Not? NLP with Disaster Tweets](https://www.kaggle.com/c/nlp-getting-started)
 
 ## Team "Muy"
 
-## Team "Muy"
 ### Team members: 
 * **Maslennikova Elizaveta** (kaggle account - @Lizza);
 * **Korobkov Nikita** (kaggle account - @Nikita Korobkov);
